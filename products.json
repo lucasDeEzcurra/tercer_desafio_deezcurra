@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Mate torpedo",
+      "description": "Descripción mate torpedo",
+      "price": 12.5,
+      "thumbnail": "ruta/torpedo.jpg",
+      "code": "19283012",
+      "stock": 18,
+      "id": 1
+    },
+    {
+        "title": "Mate Camionero",
+        "description": "Descripción mate Camionero",
+        "price": 23.5,
+        "thumbnail": "ruta/camionero.jpg",
+        "code": "6343013",
+        "stock": 83,
+        "id": 2
+      },
+      {
+        "title": "Mate Imperial",
+        "description": "Descripción mate Imperial",
+        "price": 29.5,
+        "thumbnail": "ruta/imperial.jpg",
+        "code": "345012",
+        "stock": 28,
+        "id": 3
+      },{
+        "title": "Mate Imperial Premium",
+        "description": "Descripción mate Imperial Premium",
+        "price": 29.5,
+        "thumbnail": "ruta/imperialpremium.jpg",
+        "code": "345332012",
+        "stock": 18,
+        "id": 4
+      }
+  ]
